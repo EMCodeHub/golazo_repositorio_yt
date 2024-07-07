@@ -1,0 +1,97 @@
+/*estilos de componentes propios dentro del GRID*/
+/*estos estilos son para las 4 imagenes que forman las 4 categorías de productos*/
+
+.divclass123-Home {
+  background: black;   
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover; /* Ajustar la imagen al tamaño del contenedor */
+  background-position: center; /* Centrar la imagen dentro del contenedor */
+  padding-top: 50px; /* Añadir espacio en la parte superior del contenedor */
+  padding-bottom: 50px; /* Añadir espacio en la parte inferior del contenedor */
+}
+
+.divclass1234-Home {
+  font-size: 28px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: .004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: #f5f5f7;
+  margin-bottom: 0px; /* Añadir margen inferior al h2 para separarlo del siguiente elemento */
+}
+
+.divclass12345-Home {
+  font-size: 19px;
+  line-height: 1.21053;
+  font-weight: 400;
+  letter-spacing: 0em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: #f5f5f7;
+  margin-bottom: 10px; /* Añadir margen inferior al h3 para separarlo del siguiente elemento */
+}
+
+
+
+/*estilos del GRID generales */
+
+.grid-gallery-home {
+    margin-top: 5px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 2 columnas de igual ancho */
+    grid-template-rows: repeat(2, auto); /* 2 filas de altura automática */
+    gap: 3px; /* Espacio entre elementos */
+    margin-bottom: -20px;
+    
+  }
+  
+
+  /* Define los estilos para los elementos dentro de grid-gallery-home */
+.grid-gallery-home > div {
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+
+/* Define el estilo específico para los elementos cuando la pantalla tenga entre 100 y 500px de ancho */
+
+/*estas media query nos ayudan a reducir la altura de la imagen cuando estamos en vista celular */
+
+
+@media screen and (max-width: 500px) and (min-width: 100px) {
+  .grid-gallery-home > div {
+    min-height: 300px; /* Cambia el height a 300px */
+  }
+}
+
+
+@media screen and (min-width: 501px) and (max-width: 1000px) {
+  .grid-gallery-home > div {
+    min-height: 400px; /* Cambia el height a 600px */
+  }
+}
+
+
+@media screen and (min-width: 1000px) and (max-width: 2000px) {
+  .grid-gallery-home > div {
+    min-height: 500px; /* Cambia el height a 600px */
+  }
+}
+
+
+@media screen and (min-width: 2000px) and (max-width: 5000px) {
+  .grid-gallery-home > div {
+    min-height: 500px; /* Cambia el height a 600px */
+  }
+}

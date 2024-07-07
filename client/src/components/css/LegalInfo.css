@@ -1,0 +1,56 @@
+.legal-info-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  border-radius: 10px;
+ 
+  overflow: hidden; /* Evitar que el contenido se desborde */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+  
+}
+
+
+
+.legal-info-container p{
+  
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+
+  color: black;
+  
+}
+
+
+
+
+
+
+
+
+
+.legal-info-container h2 {
+  color: #44397f;
+  text-align: center;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.legal-info-content {
+  font-family: Arial, sans-serif;
+  color: #44397f;
+  font-size: 16px;
+  line-height: 1.6;
+ 
+  min-height: 610px;
+  font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue",Helvetica,Arial,sans-serif;
+  margin-top: 40px;
+
+}
+
+@media (max-width: 768px) {
+  .legal-info-container {
+    padding: 20px;
+  }
+}
+

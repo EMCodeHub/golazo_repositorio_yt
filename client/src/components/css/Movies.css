@@ -1,0 +1,101 @@
+.MoviesButonyStar{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+
+
+}
+
+.movie-image-container img {
+
+    border-radius: 15px;
+    
+}
+
+
+
+.movie-image-containerd img{
+
+
+    border-radius: 15px;
+    max-height: 400px;
+
+}
+
+
+
+
+
+
+
+.movies{
+
+    margin-top: 35px;
+
+
+}
+
+
+.movie-box {
+    background-color: #ffffff38;
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: 0px 0px 4px 0px rgba(0, 0, 0, 0.5);
+    min-height: 350px;
+
+    
+
+
+}
+
+
+
+
+.movie-detailss{
+
+margin-top: 30px;
+
+}
+
+
+
+
+
+.movie-detailss h3{
+
+color: rgb(117, 117, 148);
+
+color: rgb(0, 0, 0);
+
+}
+
+
+
+.movie-detailss h4{
+
+    color: rgb(117, 117, 148);
+
+
+
+}
+
+
+
+.movie-image-container {
+
+
+   
+    min-height: 250px;
+   
+}
+
+
+.movie-image-container img {
+
+    border-radius: 15px;
+    
+}

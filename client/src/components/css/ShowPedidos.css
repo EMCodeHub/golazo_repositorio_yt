@@ -1,0 +1,71 @@
+.filtrosedupedidobusqueda{
+
+
+display: flex;
+flex-direction: row;
+
+margin-bottom: 50px;
+
+
+}
+
+
+
+
+
+
+
+
+
+.pedidospage{
+
+
+
+
+
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 1200px;
+    flex-direction: column;
+}
+
+
+.tableedupedidos{
+
+
+    background-color: white;
+
+
+}
+
+
+
+.tableedupedidos {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .tableedupedidos th,
+  .tableedupedidos td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  .tableedupedidos tr:nth-child(even) {
+    background-color: white;
+    color: black;
+  }
+  
+  .tableedupedidos tr:nth-child(odd) {
+    background-color: white;
+    color: black;
+}
+  
+  
+  .tableedupedidos th {
+    background-color: white;
+    color: black;
+}
+  

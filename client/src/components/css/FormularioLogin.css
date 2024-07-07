@@ -1,0 +1,13 @@
+
+input[type="checkbox"], input[type="radio"] {
+  
+    visibility: visible;
+    display: block;
+
+}
+
+
+.formulario .error {
+    color: #bf2d2e;
+    
+}

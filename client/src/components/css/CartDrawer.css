@@ -1,0 +1,348 @@
+
+
+.css-wig9ak {
+
+
+  margin-top: 15px;
+
+
+
+}
+
+
+
+.footerCart{
+
+margin-top: 30px;
+margin-bottom: 40px;
+  border-top: 0px solid #526980;
+  border-top: 0px solid var(--border);
+
+
+  border-top: 0px solid var(--border);
+  border-top: 0px solid var(--border);
+  border-top: 0px solid #526980;
+
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fffdfd;
+  max-height: 1px;
+  border-top: 0px solid var(--border);
+  border-top: 0px solid var(--border);
+  border-top: 0px solid #526980;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.componenteconsrollbar{
+
+
+  max-height: "500px";
+    /* Asegúrate de que el contenido del componente pueda desplazarse */
+    overflow-y: auto;
+    /* Ajusta la altura máxima del componente para que quepa en la pantalla */
+    max-height: calc(100vh - 100px); /* Ajusta según sea necesario */
+  
+    /* Oculta el scrollbar principal de la página */
+    scrollbar-width: none; /* Para Firefox */
+    -ms-overflow-style: none; /* Para Internet Explorer y Edge */
+  
+
+
+
+}
+
+
+
+.componenteconsrollbar::-webkit-scrollbar {
+  display: none; /* Para navegadores WebKit como Chrome y Safari */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.labelCart{
+
+
+
+
+  display: flex;
+  align-content: center;
+  justify-content: center;
+
+  color:aliceblue;
+
+
+
+}
+
+
+
+.clearButtonClass{
+
+
+  display: flex;
+  align-content: center;
+  justify-content: center;
+
+
+
+
+}
+
+
+
+
+.kartimgtitle{
+
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 70px;
+
+
+}
+
+
+
+.karttitle{
+
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  margin: 20px;
+  width: 200px;
+
+
+}
+
+
+.inputCart{
+
+
+width: 20px;
+
+}
+
+
+
+.cart {
+
+  background: #faf9ff;
+
+  display: block;
+
+  padding-left: 30px;
+
+  padding-top: 15px;
+
+
+  /*position: fixed;*/
+  
+  
+  /*right: -330px; */
+
+
+  top: 0px;
+
+  width: 300px;
+
+
+  z-index: 1000;
+
+  border-radius: 15px;
+
+  /*animation: slideIn 0.5s forwards; */
+
+
+  z-index: 9;
+
+  height: 700px;
+
+
+}
+
+
+
+
+
+.carttop {
+
+
+  min-height: 80px;
+
+  margin-top: 25px;
+
+  background: #faf9ff;
+
+  display: block;
+
+  padding-left: 30px;
+
+  padding-top: 15px;
+
+
+  /*position: fixed;*/
+  
+  
+  /*right: -330px; */
+
+
+  top: 0px;
+
+  width: 300px;
+
+
+  z-index: 1000;
+
+  border-radius: 15px;
+
+  /*animation: slideIn 0.5s forwards; */
+
+
+  z-index: 9;
+
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.cart img {
+  aspect-ratio: 16/9;
+  width: 100%;
+}
+
+.cart li {
+ 
+}
+
+
+
+
+.cart-button {
+  align-items: center;
+  background-color: #d5d5d5;
+  border-radius: 9999px;
+  cursor: pointer;
+  display: flex;
+  height: 32px;
+  justify-content: center;
+  padding: 4px;
+  color: black;
+
+  position: fixed;
+  /*position: absolute;*/
+  right: 8px;
+  top: 15px;
+  transition: all .3s ease;
+  width: 32px;
+  z-index: 9999;
+  margin-right: 100px;
+}
+
+.cart-button:hover {
+  scale: 1.3;
+}
+
+.cart-button ~ input:checked ~ .cart {
+  height: 100%;
+  display: block;
+
+}
+
+
+
+
+
+
+
+.cart-cierre-button {
+
+  align-items: center;
+  background: white;
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 25px;
+  justify-content: center;
+  padding: 2px;
+
+  position: fixed;
+ 
+ 
+
+  transition: all .3s ease;
+  width: 32px;
+  z-index: 9999;
+}
+
+.cart-cierre-button:hover {
+  scale: 1.1;
+}
+
+.cart-cierre-button ~ input:checked ~ .cart {
+  height: 100%;
+  display: block;
+  
+
+}
+
+[type='checkbox']{
+  display: none;
+}
+

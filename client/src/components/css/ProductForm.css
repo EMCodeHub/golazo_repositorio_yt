@@ -1,0 +1,92 @@
+
+textarea {
+  background-color: white;
+  color:black;
+  
+}
+
+
+
+
+input {
+  background-color: white;
+  color:black;
+  
+}
+
+
+
+
+
+
+
+
+
+
+.checkout-form-container {
+    max-width: 900px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #e2e2e3;
+    color: black;
+    text-align: center;
+    border-radius: 20px;
+    margin-top: 80px;
+   
+  }
+  
+  .form {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e2e2e3;
+    padding: 20px;
+    border-radius: 10px;
+     margin-top: 20px;
+  }
+  
+  .form-group {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .form label {
+    margin-bottom: 5px;
+    color: black;
+    font-weight: bold; /* Hace que el texto esté en negrita */
+  }
+  
+  .form input[type="text"],
+  .form input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+    justify-content: center;
+  }
+  
+  .form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: black;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* Elimina el estilo de filas pares */
+  .checkout-form-container tbody tr:nth-child(even) {
+    background-color: inherit; /* Hereda el color de fondo del contenedor */
+  }
+  
+  /* Establece el color de fondo de la fila de total */
+  .checkout-form-container .total-cell {
+    background-color: rgb(147, 155, 173); /* Mismo color que el fondo de la tabla */
+  }
+  

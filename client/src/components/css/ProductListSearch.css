@@ -1,0 +1,98 @@
+.h4-productListSearch {
+    font-size: 22px;
+    line-height: 1.21053;
+    font-weight: 700;
+    letter-spacing: 0em;
+    font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    color: black;
+}
+
+.h3-productListSearch {
+
+  
+    font-size: 17px;
+    line-height: 1.21053;
+    font-weight: 600;
+    letter-spacing: 0em;
+    font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    color: black;
+}
+
+.div-ProductListSearch12 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p-ProductListSearch12 {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border: none;
+    cursor: pointer;
+    color: #2997ff;
+    font-size: 17px;
+    line-height: 1.125;
+    font-weight: 600;
+    letter-spacing: 0.004em;
+    font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    margin-bottom: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.div-ProductListSearch123 {
+    width: 100%;
+    background-color: rgba(22, 22, 23);
+    padding: 10px 0;
+    z-index: 100;
+    min-height: 60px;
+    box-shadow: 0px -2px 5px rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 30px;
+}
+
+.button-ProductListSearch123 {
+    background: #0071e3;
+    color: white;
+    padding: 8px 15px;
+    border: none;
+    border-radius: 30px;
+    cursor: pointer;
+    outline: none;
+    transition: background-color 0.3s;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0.004em;
+    font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+}
+
+
+
+.p-ProductListSearch1234 {
+    font-size: 17px; /* Sin comillas */
+    line-height: 1.21053; /* Sin comillas */
+    font-weight: 600; /* Sin comillas */
+    letter-spacing: 0em; /* Sin comillas */
+    font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif; /* Sin comillas */
+    color: black; /* Sin comillas */
+    margin-bottom: 50px; /* Sin comillas */
+}
+
+
+.movie img {
+
+    width: 50%;
+
+}
+
+
+
+.movie-box {
+   
+    min-height: 250px;
+    margin-left:4px;
+    min-height: 500px;
+    max-width: 350px;
+}

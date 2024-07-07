@@ -1,0 +1,302 @@
+
+.custom-carousel .jqPvSa:hover:enabled,
+.custom-carousel .jqPvSa:focus:enabled {
+    color: black;
+    background-color: white;
+    /* Otros estilos personalizados si es necesario */
+}
+
+
+.custom-carousel .fWbiuH:hover:enabled,
+.custom-carousel .fWbiuH:focus:enabled {
+    color: black;
+    background-color: white;
+    /* Otros estilos personalizados si es necesario */
+}
+
+
+
+.custom-carousel .jqPvSa,
+.custom-carousel .jqPvSa{
+    color: black;
+    background-color: white;
+    /* Otros estilos personalizados si es necesario */
+}
+
+
+
+.custom-carousel .fWbiuH,
+.custom-carousel .fWbiuH{
+    color: black;
+    background-color: white;
+    /* Otros estilos personalizados si es necesario */
+}
+
+
+/*----------------------------------------------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+.fWbiuH:hover:enabled, .fWbiuH:focus:enabled {
+  color: #000;
+  background-color: rgb(255, 255, 255); 
+  box-shadow: 0 0 2px 0 #333;
+}
+
+
+
+.fWbiuH:hover{
+
+  color: #000000;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 0 0 2px 0 #333;
+
+}
+
+
+.fWbiuH:focus{
+  color: #000000;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 2px 0 #333;
+
+}
+
+
+
+.jqPvSa:hover:enabled, .jqPvSa:focus:enabled {
+
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgb(51, 51, 51) 0px 0px 2px 0px;
+
+}
+
+
+.jqPvSa:focus{
+
+  color: #000000;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 2px 0 #333;
+
+}
+
+
+
+.jqPvSa:hover{
+
+  color: #000000;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 2px 0 #333;
+
+}
+
+
+.button:hover {
+
+  background-color: rgb(255, 255, 255);
+  border-color:white;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.h4-carousel { 
+  font-size: 16px;
+  line-height: 1.21053;
+  font-weight: 700;
+  letter-spacing: 0em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: black;
+  text-align-last: center;
+  text-align: center;
+}
+
+.h3-Carousel {
+  font-size: 13px;
+  line-height: 1.21053;
+  font-weight: 500;
+  letter-spacing: 0em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  color: black;
+}
+
+.parrafo-Carousel {
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+  color: #2997ff;
+  font-size: 17px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: .004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  margin-bottom: 20px;
+  transition: background-color 0.3s ease; /* Agregamos una transición suave */
+}
+
+
+
+.sc-beySPh {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 100%;
+  margin: 0 15px;
+  font-size: 4em;
+  background-color: rgb(255 255 255);
+
+}
+
+
+/*
+
+.sc-fsYfdN biWixv idemCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 100%;
+  background-color: #d2d4da38;
+  color: #fff;
+  margin: 0 15px;
+  font-size: 4em;
+  border-radius: 20px;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.5);
+}
+
+*/
+
+
+.fSsMzL {
+  max-width: 250px;
+}
+
+.sc-jTQCzO gSFooI rec rec-carousel-wrapper {
+  min-height: 900px;
+}
+
+.imagencarrousel {
+  max-height: 400px;
+  display: flex;
+    justify-content: center;
+}
+
+.itemProduct {
+  background-color: rgb(255 255 255);
+
+  min-width: 160px;
+
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.biWixv {
+  background-color: rgb(255 255 255);
+}
+
+
+
+.itemProductTitle h4 {
+  color: rgb(114, 107, 107);
+}
+
+.itemProductTitle h3 {
+  color: black;
+}
+
+
+
+.idemCard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 100%;
+ 
+  color: rgb(255 255 255);
+  margin: 0 15px;
+  font-size: 4em;
+  border-radius: 20px;
+  background-color: rgb(255 255 255);
+  min-height: 400px;
+}
+
+
+
+
+.Aplicacion-Carousel {
+  font-family: sans-serif;
+  display: flex;
+
+  justify-content: center;
+  height: 400px;
+
+  align-items: flex-start;
+  margin-bottom: 40px;
+  align-items: center;
+  background-color: rgb(255 255 255);
+ 
+}
+
+.itemProduct {
+  border-radius: 20px;
+  font-size: 15px;
+  max-width: 215px;
+  min-width: 215px;
+}
+
+.imageCarr {
+  width: 130px;
+
+  border-radius: 10px;
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.bJNoTF {
+  display: none;
+}
+
+.itemProductTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.bJNoTF {
+  display: none;
+}

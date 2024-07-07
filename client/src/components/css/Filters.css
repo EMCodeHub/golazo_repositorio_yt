@@ -1,0 +1,158 @@
+.SelectFilter {
+  width: 100%; /* Ancho completo para dispositivos móviles */
+  min-width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  max-width: 250px;
+  font-size: 15px;
+  line-height: 1.21053;
+  font-weight: 600;
+  letter-spacing: 0em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  margin-bottom: 0;
+  border-radius: 30px;
+  padding: 0;
+  height: 40px;
+  color: black;
+  border: solid 1px;
+}
+
+/* Estilos específicos para dispositivos móviles */
+@media only screen and (max-width: 600px) {
+  /* Ajuste adicional para dispositivos móviles */
+  .SelectFilter {
+    width: auto; /* Revertir al ancho automático */
+    -webkit-appearance: none; /* Evitar la apariencia predeterminada del navegador en iOS */
+  }
+  
+  /* Alinea el texto dentro de las opciones */
+  .SelectFilter option {
+    text-align: center;
+    max-width: 250px;
+    font-size: 15px;
+    line-height: 1.21053;
+    font-weight: 600;
+    letter-spacing: 0em;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+    margin-bottom: 0;
+    border-radius: 30px;
+    padding: 0;
+    height: 40px;
+    color: black;
+    border: solid 1px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.categorias {
+  max-width: 250px;
+
+  font-size: 15px;
+  line-height: 1.21053;
+  font-weight: 400;
+  letter-spacing: 0em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  margin-bottom: 10px;
+  border-radius: 30px;
+  background: #f3eeee;
+  color: black;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+
+
+
+.inputpricepropio {
+  min-width: 60px;
+
+  border-radius: 20px;
+  border: 2px solid #ccc;
+  padding: 10px;
+  outline: none;
+  transition: border-color 0.3s;
+
+  background-color: white;
+  color: black;
+
+  max-width: "250px";
+
+  line-height: "1.21053";
+  font-weight: 400;
+  letter-spacing: "0em";
+  font-family: '"SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif';
+
+  margin-bottom: "10px";
+
+  font-size: 15px;
+}
+
+.filterprice {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.filters {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 18px;
+  font-weight: 700;
+  padding-bottom: 60px;
+  padding: 20px;
+
+  flex-direction: column;
+  gap: 30px;
+  color: black;
+  text-align: center;
+}
+
+.filters > div {
+  display: flex;
+  gap: 1rem;
+  text-align: center;
+}
+
+/*
+.InputFilter {
+  min-width: 200px;
+}
+
+
+*/
+
+
+

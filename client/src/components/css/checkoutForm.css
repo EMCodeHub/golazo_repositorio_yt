@@ -1,0 +1,212 @@
+
+
+.seguircomprando2,
+.comprar2 {
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 0.5px;
+  color: black;
+  transition: background-color 0.3s ease; /* Transición suave del cambio de color */
+}
+
+.seguircomprando2 {
+  width: 325px;
+  min-height: 70px;
+  background: gray;
+}
+
+
+
+
+
+
+
+
+
+
+.form223{
+
+
+min-width: 300px;
+width: 70%;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+padding: 20px;
+border-radius: 10px;
+display: flex;
+
+max-width: 300px;
+
+
+}
+
+
+
+.form223 input{
+
+
+  width: 100%;
+  
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: white;
+  color: black;
+}
+  
+  
+  
+.form223 button {
+  padding: 10px 20px;
+  
+  color: rgb(241, 241, 241);
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  background: linear-gradient(135deg, rgb(255, 157, 108), rgb(187, 77, 154)) rgba(43, 99, 163, 0.56);
+  font-weight: bold;
+}
+  
+
+
+
+
+.realizarpedidoboton{
+
+display:flex;
+align-content: center;
+justify-content: center;
+
+
+
+}
+
+
+.carrito-content h1{
+
+  color:black;
+}
+
+
+
+
+
+
+
+
+.response-message-container{
+
+
+  font-size: 11px;
+
+border-radius: 20pc;
+
+color:rgb(77, 75, 75);
+
+font-weight: bold;
+
+display:flex;
+
+align-items: center;
+
+justify-content: center;
+
+max-height: 150px;
+
+
+
+
+}
+
+
+
+
+.form-title{
+
+
+  color:black;
+}
+
+
+
+
+
+
+.checkoutFormm{
+    
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f5f5f5;
+    color: black;
+    text-align: center;
+    border-radius: 10px;
+    min-width: 310px;
+    max-width: 310px;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+  }
+
+
+
+  
+  .form {
+    width: 70%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   
+    padding: 20px;
+    border-radius: 10px;
+    min-width: 300px;
+  }
+  
+  .form-group {
+    width: 100%;
+    margin-bottom: 15px;
+  }
+  
+  .form label {
+    margin-bottom: 5px;
+    color: black;
+    font-weight: bold; /* Hace que el texto esté en negrita */
+  }
+  
+  .form input[type="text"],
+  .form input[type="email"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: white;
+    color: black;
+  }
+  
+  .form button {
+    padding: 10px 20px;
+    
+    color: rgb(241, 241, 241);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background: linear-gradient(135deg, rgb(255, 157, 108), rgb(187, 77, 154)) rgba(43, 99, 163, 0.56);
+    font-weight: bold;
+  }
+  
+  /* Elimina el estilo de filas pares */
+  .checkout-form-container tbody tr:nth-child(even) {
+    background-color: inherit; /* Hereda el color de fondo del contenedor */
+  }
+  
+  /* Establece el color de fondo de la fila de total */
+  .checkout-form-container .total-cell {
+    background-color: rgb(20 27 45);
+  }
+  

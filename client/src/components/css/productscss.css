@@ -1,0 +1,170 @@
+.proo {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 2rem;
+  margin-top: 50px;
+  min-width: 400px;
+
+
+}
+
+
+/*
+
+.proo {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;  Espacio uniforme entre las columnas 
+}
+
+ Establecer el ancho de cada columna en 300px 
+.proo > * {
+  flex: 0 0 calc(25% - 20px);  4 columnas por defecto
+  margin-bottom: 20px; /* Espacio inferior entre las filas 
+}
+
+/* Media queries para ajustar el diseño en diferentes tamaños de pantalla 
+@media (max-width: 1200px) {
+  .proo > * {
+    flex: 0 0 calc(33.33% - 20px); /* 3 columnas en pantallas medianas 
+  }
+}
+
+@media (max-width: 800px) {
+  .proo > * {
+    flex: 0 0 calc(50% - 20px); /* 2 columnas en pantallas pequeñas 
+  }
+}
+
+@media (max-width: 600px) {
+  .proo > * {
+    flex: 0 0 calc(100% - 20px); /* 1 columna en pantallas muy pequeñas 
+  }
+}
+
+
+*/
+
+.product-card {
+  max-width: 300px;
+  margin: 20px auto;
+  text-align: center;
+  background-color: #e2e2e3;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-height: 600px;
+  min-height: 800px;
+}
+
+.product-image-container {
+  width: calc(100% - 40px);
+  height: 180px;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 20px;
+}
+
+.product-image {
+  width: 100%;
+  height: 100%;
+  /*object-fit: contain;*/
+  border-radius: 30px;
+}
+
+.product-imagee {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  border-radius: 2px;
+}
+
+.product-cardd {
+  max-width: 300px;
+  min-width: 300px;
+  margin: auto;
+  text-align: center;
+  background-color: #e2e2e3;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  max-height: 600px;
+  min-height: 1000px;
+}
+
+.product-details {
+  margin-top: 10px;
+}
+
+.product-title {
+  font-size: 150%;
+  overflow-wrap: break-word;
+}
+
+.product-descriptionn {
+  max-width: 500px;
+  width: 100%;
+  color: rgb(0, 0, 0);
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 16px;
+  position: relative;
+  background: #ffffff;
+  box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.5);
+  margin-bottom: 10px;
+  margin-top: 1px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  min-height: 120px;
+}
+
+.product-description {
+  overflow-wrap: break-word;
+}
+
+.product-price {
+  margin-bottom: 0;
+}
+
+.stock-status {
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 10px;
+  color: #fff;
+}
+
+.available {
+  background-color: #2c3e50;
+}
+
+.out-of-stock {
+  background-color: #e74c3c;
+}
+
+.action-buttons {
+  margin-top: 10px;
+}
+
+.delete-button,
+.edit-button {
+  padding: 5px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.delete-button {
+  background-color: #e74c3c;
+  color: #fff;
+}
+
+.edit-button {
+  background-color: #2c3e50;
+  color: #fff;
+}
+
+.titulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

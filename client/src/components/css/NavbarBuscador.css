@@ -1,0 +1,65 @@
+
+.css-wig9ak {
+
+
+  color:white;
+  margin-right: -3px;
+
+
+  }
+
+
+
+
+
+.css-8m5s57-MuiPaper-root-MuiAppBar-root{
+
+
+height: 45px;
+
+
+}
+
+
+
+.css-rwkxd8 {
+
+  height: 45px;
+
+
+}
+
+
+
+
+.letrasbuscadorw {
+    display: flex;
+    align-items: center;
+  }
+  
+
+
+  
+  @media (max-width: 1380px) {
+    .letrasbuscadorw {
+      display: none;
+    }
+  }
+
+
+
+  .BotonMenutreslineas {
+    display: none; /* Por defecto, ocultamos el elemento */
+  }
+  
+  @media (max-width: 1380px) {
+    .BotonMenutreslineas {
+      display: block; /* Mostramos el elemento cuando el ancho de la pantalla es menor o igual a 1125px */
+    }
+  }
+  
+  @media (min-width: 1380px) and (max-width: 3000px) {
+    .BotonMenutreslineas {
+      display: none; /* Ocultamos el elemento cuando el ancho de la pantalla está entre 1126px y 3000px */
+    }
+  }

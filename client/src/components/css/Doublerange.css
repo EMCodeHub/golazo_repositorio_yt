@@ -1,0 +1,105 @@
+
+.inputpricepropio{
+
+min-width: 60px;
+
+}
+
+
+
+h2 {
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+
+.horizontal-slider {
+  width: 100%;
+  max-width: 900px;
+  height: 80px;
+  margin: 100px;
+}
+
+.horizontal-slider .example-track {
+  top: 50px;
+  height: 10px;
+}
+
+.example-track.example-track-0 {
+  background: green;
+}
+
+.example-track.example-track-1 {
+  background: red;
+}
+
+.example-track.example-track-2 {
+  background: grey;
+}
+
+.horizontal-slider .example-thumb {
+  top: 1px;
+  width: 50px;
+  height: 48px;
+  line-height: 38px;
+  border-radius: 50%;
+  font-size: 0.9em;
+  text-align: center;
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  border: 5px solid gray;
+  box-sizing: border-box;
+}
+
+/* Styles for the slider component */
+.slider {
+  height: 4px;
+  width: 100%;
+  background-color: #6b626242;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+/* Styles for the slider thumb */
+.slider .thumb {
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  background-color: #060010;
+  cursor: grab;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  margin-top: -5px;
+}
+
+/* Styles for the slider active state */
+.slider .thumb.active {
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+
+
+
+.thumb.thumb-0 {
+  background-image: url('http://elgolazo.net/imagenesgenerales/nn.png');
+  /* Otras propiedades de fondo si es necesario */
+  background-size: 17px;
+}
+
+.thumb.thumb-1 {
+  background-image: url('http://elgolazo.net/imagenesgenerales/nn.png');
+  /* Otras propiedades de fondo si es necesario */
+  background-size: 17px;
+}
+
+
+

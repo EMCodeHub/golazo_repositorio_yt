@@ -1,0 +1,33 @@
+.headergolazo{
+
+
+
+background-color: rgb(0, 0, 0);
+display: flex;
+justify-content: center;
+
+align-items: center;
+
+}
+
+
+
+.imgGolazo{
+
+
+max-height: 200px;
+margin-top: 200px;
+
+
+
+}
+
+
+.vacio{
+
+    max-height: 1px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+
+
+}

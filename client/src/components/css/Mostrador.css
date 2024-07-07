@@ -1,0 +1,80 @@
+.buttonApple {
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    min-width: 30px;
+    padding: 7px 15px;
+    border-radius: 980px;
+    background: #0071e3;
+    color: #fff;
+    border: 1px solid transparent;
+    --sk-button-margin-horizontal: 14px;
+    --sk-button-margin-vertical: 14px;
+    min-width: 90px;
+}
+
+
+
+
+.buttonApple:hover,
+.buttonApple:focus {
+    background-color: #3983cd; /* Cambiar el color de fondo al azul */
+    color: #fff; /* Cambiar el color del texto a blanco */
+}
+
+
+
+.css-wig9ak {
+
+
+    color:white;
+    margin-right: -3px;
+  
+  
+    }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+.buttonApple2 {
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    white-space: nowrap;
+    font-size: 17px;
+    line-height: 1.1764805882;
+    font-weight: 400;
+    letter-spacing: -0.022em;
+    font-family: SF Pro Text, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    min-width: 30px;
+    padding: 7px 15px;
+    border-radius: 980px;
+    background: none; /* Eliminar el color de fondo */
+    color: #0071e3; /* Color de texto */
+    border: 1px solid #0071e3; /* Borde azul de 1px */
+    --sk-button-margin-horizontal: 14px;
+    --sk-button-margin-vertical: 14px;
+    min-width: 90px;
+}
+
+.buttonApple2:hover,
+.buttonApple2:focus {
+    background-color: #0071e3; /* Cambiar el color de fondo al azul */
+    color: #fff; /* Cambiar el color del texto a blanco */
+}
+

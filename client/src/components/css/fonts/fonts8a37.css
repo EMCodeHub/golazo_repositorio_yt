@@ -1,0 +1,127 @@
+@font-face {
+	font-family:'New York Large';
+	font-style:italic;
+	font-weight:400;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_regular-italic.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_regular-italic.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_regular-italic.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:normal;
+	font-weight:500;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_medium.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_medium.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_medium.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:italic;
+	font-weight:500;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_medium-italic.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_medium-italic.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_medium-italic.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large 500';
+	src:url('https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_medium.eot');
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:normal;
+	font-weight:600;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_semibold.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_semibold.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_semibold.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:italic;
+	font-weight:600;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_semibold-italic.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_semibold-italic.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_semibold-italic.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large 600';
+	src:url('https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_semibold.eot');
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:normal;
+	font-weight:700;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_bold.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_bold.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_bold.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:italic;
+	font-weight:700;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_bold-italic.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_bold-italic.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_bold-italic.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large 700';
+	src:url('https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_bold.eot');
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:normal;
+	font-weight:800;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_heavy.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_heavy.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_heavy.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:italic;
+	font-weight:800;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_heavy-italic.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_heavy-italic.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_heavy-italic.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large 800';
+	src:url('https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_heavy.eot');
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:normal;
+	font-weight:900;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_black.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_black.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_black.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:italic;
+	font-weight:900;
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_black-italic.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_black-italic.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_black-italic.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large 900';
+	src:url('https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_black.eot');
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+
+@font-face {
+	font-family:'New York Large';
+	font-style:normal;
+	font-weight:400;
+	src:url('https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_regular.eot');
+	src:local('☺'), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_regular.woff2") format("woff2"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_regular.woff") format("woff"), url("https://www.apple.com/wss/fonts/New-York-Large/v1/new-york-large_regular.ttf") format("truetype");
+	/* (C) 2019 Apple Inc. All rights reserved. */
+}
+

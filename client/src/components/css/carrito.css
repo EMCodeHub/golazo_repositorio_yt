@@ -1,0 +1,596 @@
+
+
+.b-carritopage123{
+
+  font-size: 15px;
+  line-height: 1.125;
+  font-weight: 500;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: black;
+  margin-bottom: 0px; /* Añadir margen inferior al h2 para separarlo del siguiente elemento */
+
+
+
+}
+
+
+
+.css-i4bv87-MuiSvgIcon-root {
+  color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+.pCarritoPage221 {
+  font-size: 18px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: black;
+  margin-bottom: 0px; /* Añadir margen inferior al h2 para separarlo del siguiente elemento */
+}
+
+.div-iniciar-sesion {
+
+
+  color: white;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  width: 340px;
+  background: #891818;
+  font-size: 15px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.seguircomprando3 {
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 0.5px;
+  color: black;
+  transition: background-color 0.3s ease; /* Transición suave del cambio de color */
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.comprar3 {
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 0.5px;
+  color: black;
+  transition: background-color 0.3s ease; /* Transición suave del cambio de color */
+  margin-top: 10px;
+  padding: 10px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.shopping-basket-icon {
+  margin-left: 10px;
+  font-size: 25px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: black;
+  margin-bottom: -4px;
+}
+
+.button-carritpage153 {
+  color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  background: black;
+  font-size: 15px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.shopping-basket-icon {
+  margin-left: 10px;
+  font-size: 25px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: black;
+  margin-bottom: -4px;
+}
+
+.button-carritoPage153 {
+  color: white;
+  border-radius: 30px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  background: black;
+  font-size: 15px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.local-shipping-icon {
+  margin-left: 10px;
+  font-size: 25px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: black;
+  margin-bottom: -4px;
+}
+
+.div-carritoPage1 {
+
+
+  
+  color: white; 
+  border-radius: 5px; 
+  padding: 10px; 
+  text-align: center; 
+  margin-top: 0px; 
+  margin-bottom: 50px; 
+  font-size: 15px; 
+  line-height: 1.125; 
+  font-weight: 600; 
+  letter-spacing: 0.004em; 
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif; 
+
+
+
+
+}
+
+.button-carritoPage12 {
+  margin-top: 50px; 
+  font-size: 15px; 
+  line-height: 1.125; 
+  font-weight: 600; 
+  letter-spacing: 0.004em; 
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif; 
+  margin-bottom: 40px; 
+}
+
+.th-carritoPage12,
+.tr-carritoPage12,
+.td-carritoPage12 {
+  color: black; 
+  border-radius: 5px; 
+  padding: 10px; 
+  text-align: center; 
+  margin-top: 10px; 
+  font-size: 17px; 
+  line-height: 1.125; 
+ 
+  letter-spacing: 0.004em; 
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif; 
+}
+
+
+
+
+
+.th-carritoPage123,
+.tr-carritoPage123,
+.td-carritoPage123 {
+  color: black; 
+  border-radius: 5px; 
+  padding: 10px; 
+  text-align: center; 
+  margin-top: 10px; 
+  font-size: 17px; 
+  line-height: 1.125; 
+ width: 100px;
+  letter-spacing: 0.004em; 
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif; 
+}
+
+
+
+
+
+.th-carritoPage112,
+.tr-carritoPage112,
+.td-carritoPage112 {
+  color: black; 
+  border-radius: 5px; 
+  padding: 10px; 
+  text-align: center; 
+  margin-top: 10px; 
+  font-size: 17px; 
+  line-height: 1.125; 
+ width: 110px;
+  letter-spacing: 0.004em; 
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif; 
+}
+
+
+
+.th-carritoPage115,
+.tr-carritoPage115,
+.td-carritoPage115 {
+  color: black; 
+  border-radius: 5px; 
+  padding: 10px; 
+  text-align: center; 
+  margin-top: 10px; 
+  font-size: 17px; 
+  line-height: 1.125; 
+ width: 80px;
+  letter-spacing: 0.004em; 
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif; 
+}
+
+
+
+
+
+
+
+
+
+
+tbody tr:nth-child(even) button {
+  background-color: #f5f5f5;
+}
+
+.todoflex {
+  display: flex;
+  flex-direction: column;
+  background: #181515;
+}
+
+.full-width {
+  width: 40%;
+  text-align: center;
+  display: flex;
+}
+
+.claseCreada {
+  animation: slideIn 2s forwards; /* Animación de aparición */
+}
+
+@keyframes slideIn {
+  from {
+    right: -330px; /* Inicia fuera de la pantalla */
+  }
+  to {
+    right: 0; /* Se desplaza hasta su posición final */
+  }
+}
+
+.carrito-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 10px;
+  overflow: hidden; /* Para que los bordes redondeados se muestren correctamente */
+  background-color: #f5f5f5;
+  max-width: 340px;
+  text-align: center;
+  /*border: 1px solid rgb(35, 3, 3); /* Grosor mayor de las líneas */
+
+
+  /*
+  line-height: "1.125";
+  font-weight: 600;
+  letter-spacing: ".004em";
+  font-family: '"SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif';
+
+*/
+
+}
+
+.carrito-table tr.total-row {
+  background-color: red; /* Anula cualquier color de fondo para la fila del total */
+}
+
+.carrito-table tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+.carrito-table tr:nth-child(odd) {
+  background-color: #f5f5f5;
+}
+
+.carrito {
+
+
+
+  min-height: 250vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra los elementos horizontalmente */
+  background-color: #181515;
+  margin-top: 20px;
+  padding-top: 30px;
+  margin: 10px;
+}
+
+.carrito-content {
+  width: 100%;
+  max-width: 900px;
+  overflow-x: auto;
+  text-align: center;
+  display: flex;
+    justify-content: center;
+  /*border: 1px solid rgb(35, 3, 3); /* Grosor mayor de las líneas */
+
+
+  /*
+  line-height: "1.125";
+  font-weight: 600;
+  letter-spacing: ".004em";
+  font-family: '"SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif';
+
+  */
+}
+
+.carrito-table th,
+.carrito-table td {
+ 
+  text-align: center;
+  /*border: 1px solid rgb(35, 3, 3); /* Grosor mayor de las líneas */
+
+  line-height: "1.125";
+ 
+  letter-spacing: ".004em";
+ /* font-family: '"SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif';*/
+ font-size: 16px;
+
+  background-color: #f5f5f5;
+  border-bottom: solid 1px;
+}
+
+.total-cell {
+  text-align: center; /* Se elimina el duplicado de text-align */
+  /*border: 1px solid rgb(35, 3, 3); /* Grosor mayor de las líneas */ /* Comentario duplicado */
+
+  color: black; 
+  border-radius: 5px; 
+  padding: 10px; 
+  text-align: center; 
+  margin-top: 10px; 
+  font-size: 15px; 
+  line-height: 1.125; 
+  font-weight: 600; 
+  letter-spacing: 0.004em; 
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif; 
+}
+
+.total-cell b {
+  text-align: center;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: black;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+}
+
+.total-price {
+  font-weight: bold;
+  text-align: right;
+  text-align: center;
+  /*border: 1px solid rgb(35, 3, 3); /* Grosor mayor de las líneas */
+
+  line-height: "1.125";
+  font-weight: 600;
+  letter-spacing: ".004em";
+  font-family: '"SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif';
+}
+
+.total-price b {
+  text-align: right;
+  text-align: center;
+  /*border: 1px solid rgb(35, 3, 3); /* Grosor mayor de las líneas */
+
+  line-height: "1.125";
+  font-weight: 700;
+  letter-spacing: ".004em";
+  /*font-family: '"SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif';*/
+}
+
+.carrito-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Centra los elementos horizontalmente */
+  max-width: 450px;
+  margin-top: 70px;
+}
+
+.carrito-table tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+.carrito-table tr:nth-child(odd) {
+  background-color: #f5f5f5;
+}
+
+.butcarri {
+  min-width: 40px;
+  max-width: 40px;
+  padding: 0px;
+  background: white;
+  color: rgb(83, 87, 94);
+}
+
+tbody tr:nth-child(even) button {
+  background-color: red;
+}
+
+tbody tr:nth-child(even) button {
+  background-color: red;
+}
+
+.totalprice {
+  background-color: rgb(191, 148, 148);
+}
+
+.totalprice b {
+  color: black;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  margin-top: 10px;
+  font-size: 15px;
+  line-height: 1.125;
+  font-weight: 600;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+}
+
+.quantity-container {
+  display: flex;
+
+  align-content: center;
+
+  flex-direction: column;
+  align-items: center;
+}
+
+.seguircomprando {
+  /*background: linear-gradient(135deg, rgb(255, 157, 108), rgb(187, 77, 154)) rgba(43, 99, 163, 0.56);*/
+
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  color: black;
+  border: solid 0.5px;
+}
+
+.comprar {
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 0.5px;
+  color: black;
+}
+
+.seguircomprando2,
+.comprar2 {
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 0.5px;
+  color: black;
+  transition: background-color 0.3s ease; /* Transición suave del cambio de color */
+}
+
+.seguircomprando2 {
+  width: 325px;
+  min-height: 70px;
+  background: gray;
+}
+
+.comprar3 {
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 0.5px;
+  color: black;
+  transition: background-color 0.3s ease; /* Transición suave del cambio de color */
+}
+
+.seguircomprando3 {
+  background-color: white;
+  font-weight: bold;
+  border-radius: 30px;
+  border: solid 0.5px;
+  color: black;
+  transition: background-color 0.3s ease; /* Transición suave del cambio de color */
+}
+
+.seguircomprando3:hover,
+.comprar3:hover {
+  background-color: #ccc; /* Cambia el color de fondo al gris cuando el mouse está sobre el botón */
+}
+
+
+
+.seguircomprando2:hover,
+.comprar2:hover {
+  background-color: #ccc; /* Cambia el color de fondo al gris cuando el mouse está sobre el botón */
+}
+
+
+
+
+tbody tr:nth-child(even) button {
+  background-color: white;
+}
+
+tbody tr:nth-child(even) button:hover {
+  background-color: #ccc;
+}
+
+@keyframes slideDown {
+  from {
+    max-height: 0;
+    opacity: 0;
+  }
+  to {
+    max-height: 500px; /* Ajusta el valor según sea necesario */
+    opacity: 1;
+  }
+}
+
+.slideDown {
+  animation: slideDown 0.5s ease-in-out;
+}

@@ -1,0 +1,288 @@
+.botonesalapar{
+
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+
+
+
+}
+
+
+
+
+.codigoinputt{
+
+
+  background-color: #d5d5d5;
+  color:black;
+}
+
+
+
+
+
+
+
+
+
+.obtenerpedidos2{
+
+
+  background: linear-gradient(135deg, rgb(0 47 119), rgb(92, 79, 88)) rgba(43, 99, 163, 0.56);
+
+color: white;
+
+margin-bottom: 40px;
+
+
+
+
+
+}
+
+
+
+
+
+
+
+
+.buscaCodigo{
+
+
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: row;
+
+}
+
+
+
+
+.tablapedidoss p{
+
+  font-size: 13px;
+}
+
+
+
+
+.tabla{
+
+font-size: 20px;
+padding: 5px;
+margin: 3px;
+
+
+
+
+
+}
+
+
+.thclass p {
+
+  color: black;
+
+}
+
+
+.pagadoono{
+
+
+  background-color: rgba(210, 222, 234, 0.32);
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 20px;
+}
+
+.envioono{
+
+
+  background-color: rgba(210, 222, 234, 0.32);
+  border-radius: 10px;
+  font-size: 20px;
+  padding: 20px;
+
+}
+
+
+.selecttt {
+  color: black;
+  margin-bottom: 40px;
+  border-radius: 30px;
+  margin-top: 30px;
+  font-size: 12px;
+}
+
+
+.selecttt input{
+  color: black;
+  margin-bottom: 40px;
+  border-radius: 30px;
+}
+
+
+
+
+
+.centrado {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Norecuerdas {
+  font-size: 15px;
+  color: black;
+}
+
+.recordatoriodepedidos {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.busquedapedido2 {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.message {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  color: black;
+  margin-top: 30px;
+  justify-content: flex-start;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh; /* Esto asegura que el contenido ocupe al menos el 100% del viewport height */
+  color: black;
+}
+
+.content {
+  max-width: 800px; /* Puedes ajustar este valor según el diseño deseado */
+  width: 100%;
+  padding: 20px;
+  color: black;
+}
+
+.center-container {
+  margin-left: 30px;
+  margin-right: 30px;
+
+  min-height: 650px;
+
+  color: black;
+
+  display: flex;
+
+  justify-content: center;
+}
+
+.center-container h3 {
+  margin-left: 30px;
+  margin-right: 30px;
+
+  color: black;
+}
+
+.welcome {
+  margin-bottom: 30px;
+
+  color: black;
+}
+
+.welcome h5 {
+  color: black;
+}
+
+.welcome p {
+  color: black;
+}
+
+.welcome h4 {
+  color: black;
+}
+
+.sesion {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 60px;
+}
+
+.cerrarsesion {
+  margin-top: 20px;
+  background: linear-gradient(135deg, rgb(228, 79, 4), rgb(187, 77, 154))
+    rgba(49, 45, 165, 0.56);
+
+  font-size: 10px;
+}
+
+.codigopedilabel {
+  margin-top: 20px;
+
+  font-size: 15px;
+
+  margin-bottom: 20px;
+}
+
+.obtenerpedidos {
+  background: linear-gradient(135deg, rgb(255, 157, 108), rgb(187, 77, 154))
+    rgba(43, 99, 163, 0.56);
+
+  color: white;
+  margin-top: 20px;
+}
+
+.tablepedidos {
+  /*background-color: white;*/
+  color: black;
+  border-radius: 20px;
+  width: 100%;
+}
+
+
+
+
+.totaltotal {
+
+
+
+
+
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* Esto asegura que el contenido ocupe al menos el 100% del viewport height */
+  color: black;
+  margin-bottom: 50px;
+
+
+}
+
+.thclass {
+  border-bottom-style: solid;
+
+  background-color: white;
+}
+
+.totaltotal h4 {
+  color: black;
+  margin-right: 40px;
+}
